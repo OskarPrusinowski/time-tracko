@@ -1,8 +1,39 @@
-# React + Vite
+# TimeTracko Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Opis projektu
 
-Currently, two official plugins are available:
+TimeTracko to aplikacja do śledzenia czasu pracy, która umożliwia użytkownikom zarządzanie swoimi zadaniami i projektami. Projekt ten zawiera frontendową część aplikacji, zbudowaną przy użyciu React i Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologie
+
+Projekt wykorzystuje następujące technologie:
+
+- React
+- Vite
+- Tailwind CSS
+- Material-UI
+- Axios
+- React Router
+
+## Struktura projektu
+
+- `src/` - Katalog zawierający źródła aplikacji
+- `public/` - Katalog zawierający publiczne pliki statyczne
+- `node_modules/` - Katalog zawierający zainstalowane zależności
+
+## Instalacja
+
+Aby zainstalować wszystkie zależności projektu, uruchom poniższą komendę:
+
+```sh
+npm install
+
+```
+
+
+## Uruchamianie aplikacji
+Aby uruchomić aplikację w trybie deweloperskim, użyj poniższej komendy:
+
+```sh
+npm run dev
+```
