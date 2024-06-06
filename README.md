@@ -26,10 +26,11 @@ Projekt wykorzystuje następujące technologie:
 Aby zainstalować wszystkie zależności projektu, uruchom poniższą komendę:
 
 ```sh
-npm install
+npm install```
 
 ## Uruchamianie aplikacji
 Aby uruchomić aplikację w trybie deweloperskim, użyj poniższej komendy:
 
 ```sh
 npm run dev
+```
